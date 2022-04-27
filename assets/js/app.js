@@ -56,3 +56,5 @@ sr.reveal(`.filter__content`, {delay: 900});
 sr.reveal(`.filter`, {delay: 1000});
 sr.reveal(`.projects__content`, {delay: 1000});
 sr.reveal(`.footer`, {delay: 1050});
+
+
