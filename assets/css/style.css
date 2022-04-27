@@ -363,13 +363,18 @@ body.dark_theme {
     }
 
     .profile__photo {
-        width: 120px;
-        height: 120px;
+        width: 117px;
+        height: 117px;
+        border-radius: 50%;
+        overflow: hidden;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+
     }
 
     .profile__photo img {
-        width: 90px;
-
+        width: 150%;
     }
     .profile__occupation {
         margin-bottom: 1.5rem;
